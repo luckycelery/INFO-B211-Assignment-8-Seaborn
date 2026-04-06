@@ -160,7 +160,7 @@ Loads the built‑in Seaborn planets dataset.
 
 ---
 
-## 📊 Visualization Functions
+## Visualization Functions
 
 ### 4. `plot_pulse_heatmap(df)`
 **Purpose:**  
